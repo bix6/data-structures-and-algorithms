@@ -1,0 +1,10 @@
+html {
+    box-sizing: border-box;
+    font-size: 10px;
+    /* TODO Change to 10px */
+    font-size: 20px;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
